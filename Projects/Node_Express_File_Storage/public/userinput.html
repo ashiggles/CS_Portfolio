@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Node/Express Site with File Storage</title>
+        <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    </head>
+    <button type='button'><a href='/userinput.html'>User Form</a></button><button type='button'><a href='/userfoods.html'>User Foods</a></button><form action="/user_table"><input type="submit" value="User Table"/></form>
+    <body>
+        <!-- https://localhost:3000/user_routes/?firstname=Johnny&lastname=Begood&favfood=pizza -->
+
+        <div class="jumbotron text-center">
+            <h1>User Form:</h1><br>
+        </div>
+
+        <form action="/user_entry" method="get" class="text-center" style="width:50%;margin:0 auto">
+            <div class="form-group">
+                <label for="firstname">First Name:</label>
+                <input type="text" id="firstname" name="firstname" class="form-control form-control-sm">
+            </div>
+            <div class="form-group" style="margin-top:50px">
+                <label for="lastname">Last Name:</label>
+                <input type="text" id="lastname" name="lastname" class="form-control form-control-sm">
+            </div>
+            <div class="form-group" style="margin-top:50px">
+                <label for="favfood">Favorite Food:</label>
+                <input type="text" id="favfood" name="favfood" class="form-control form-control-sm">
+            </div>
+            <button type="submit" class="btn btn-primary" style="margin-top:50px">Submit</button>
+        </form>
+    </body>
+</html>
