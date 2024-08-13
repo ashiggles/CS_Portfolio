@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adam.</h1>
 <h3 align="center">I'm a lifelong learner! Check out some of my projects below.</h3>
 
-- 🌱 [MERN And Session](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_And_Sessions)
+- 🌱 [React Connect Four Game](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/React_Connect_Four)
 
-- 📄 **---**
+- 📄 [Node And Express File Storage](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/Node_Express_File_Storage)
 
-- 📝 [MERN Banking Website](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Bank_Account)
+- 📝 [MERN Bank Account](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Bank_Account)
 
-- ⚡ [---](---)
+- ⚡ [MERN And Session](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_And_Sessions)
 
-- 🌱 **---**
+- 🌱 [MERN Hangman Game](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Hangman_Game)
 
-- 📝 **---**
+- 📝 [MERN Banking Website](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Banking_Website)
 
 <h3 align="left">Connect with me:</h3>
 🔭 [GitHub Profile](https://github.com/ashiggles)
