@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam.</h1>
-<h3 align="center">I'm a lifelong learner! Check out some of my projects below.</h3>
+<h1 align="center">Hi I'm Adam 👋</h1>
+<h3 align="center">I'm a computer science learner! Please check out some of my projects below.</h3>
 
 - 🌱 [React Connect Four Game](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/React_Connect_Four)
 
