@@ -2,7 +2,7 @@
 <h3 align="center">I'm a computer science learner! Please check out some of my project assignments below.</h3>
 
 <br>
-<h3 align="center"><a href="https://github.com/ashiggles/Portfolio_Project" target="_blank" rel="noreferrer">Portfolio_Project GitHub Repo</a></h3>
+<h3 align="center">Check out the full repo: <a href="https://github.com/ashiggles/Portfolio_Project" target="_blank" rel="noreferrer">Portfolio_Project GitHub Repo</a></h3>
 <br>
 
 <h4>🌎 1st Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/My_Express_App" target="_blank" rel="noreferrer">My Express App</a></h4>
