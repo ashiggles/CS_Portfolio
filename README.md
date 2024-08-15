@@ -6,6 +6,7 @@
 <h4>🌎 1st Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/My_Express_App" target="_blank" rel="noreferrer">My Express App</a></h4>
 <p align="left"> - The 1st assignment is the first initialization of an Express application.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_1.jpg">
+<img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_1_2.jpg">
 
 <h4>📄 2nd Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/Node_Express_File_Storage" target="_blank" rel="noreferrer">Node And Express File Storage</a></h4>
 <p align="left"> - The 2nd assignment included setting up Node with Express as well as demonstrating file storage.</p>
