@@ -28,7 +28,7 @@
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_6.jpg">
 
 <h4>📝 7th Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Banking_Website" target="_blank" rel="noreferrer">MERN Banking Website</a></h4>
-<p align="left"> - The 7th assignment was a group assignment with <a href="https://github.com/KristaSmith1">KristaSmith1</a> and <a href="https://github.com/Acroft96">Acroft96</a>. We developed a functioning Banking website using the MERN stack.</p>
+<p align="left"> - The 7th assignment was a group assignment with <a href="https://github.com/KristaSmith1" target="_blank" rel="noreferrer">KristaSmith1</a> and <a href="https://github.com/Acroft96" target="_blank" rel="noreferrer">Acroft96</a>. We developed a functioning Banking website using the MERN stack.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_7.jpg">
 
 <br>
