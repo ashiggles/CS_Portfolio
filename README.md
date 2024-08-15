@@ -11,26 +11,32 @@
 <h4>📄 2nd Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/Node_Express_File_Storage" target="_blank" rel="noreferrer">Node And Express File Storage</a></h4>
 <p align="left"> - The 2nd assignment included setting up Node with Express as well as demonstrating file storage.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_2.jpg">
+<img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_2_2.gif">
 
 <h4>🌱 3rd Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/React_Connect_Four" target="_blank" rel="noreferrer">React Connect Four Game</a></h4>
 <p align="left"> - The 3rd assignment was creating a Connect Four game with React.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_3.jpg">
+<img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_3_2.gif">
 
 <h4>📝 4th Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/RESTful_API_Bank_Account" target="_blank" rel="noreferrer">RESTful API Bank Account</a></h4>
 <p align="left"> - The 4th assignment was an introduction to RESTful API and creates a backend for registering and accepting new bank account information.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_4.jpg">
+<img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_4_2.gif">
 
 <h4>⚡ 5th Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_And_Sessions" target="_blank" rel="noreferrer">MERN And Session</a></h4>
 <p align="left"> - The 5th assignment used the MERN stack and session data to create a functioning bank account application.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_5.jpg">
+<img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_5_2.gif">
 
 <h4>🌱 6th Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Hangman_Game" target="_blank" rel="noreferrer">MERN Hangman Game</a></h4>
 <p align="left"> - The 6th assignment was a group assignment with @KristaSmith247 and @Acroft96. We developed a functioning Hangman Game using the MERN stack.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_6.jpg">
+<img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_6_2.gif">
 
 <h4>📝 7th Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Banking_Website" target="_blank" rel="noreferrer">MERN Banking Website</a></h4>
 <p align="left"> - The 7th assignment was a group assignment with <a href="https://github.com/KristaSmith1" target="_blank" rel="noreferrer">KristaSmith1</a> and <a href="https://github.com/Acroft96" target="_blank" rel="noreferrer">Acroft96</a>. We developed a functioning Banking website using the MERN stack.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_7.jpg">
+<img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_7_2.gif">
 
 <br>
 
