@@ -54,18 +54,14 @@ accountRoutes.route("/accounts/add").post(async (req, res) => {
         //See if email already exists
         const checkEmail = await db_connect.collection("users").findOne({ email: myobj.email });
         if (checkEmail) {
-            console.log("Error!!! Email in use!!");
-            console.log(checkEmail.email + ", " + typeof(checkEmail));
-            errorMessage = {message: "Error: Email alreay used"};
-            res.json(errorMessage);
-            console.log(errorMessage);
+            message = {message: "Error: Email already used."};
+            res.json(message);
+            //console.log(message);
         } else {
             // Insert new user
-            console.log("New: " + myobj.email + ", " + typeof(myobj.email));
-            console.log("Find: " + checkEmail + ", " + typeof(checkEmail));
             const result = await db_connect.collection("users").insertOne(myobj);
-            errorMessage = {message: "Success"}
-            console.log(errorMessage);
+            message = {message: "Success"};
+            //console.log(message);
             res.json(result);
         }
     } catch (err) {
@@ -91,15 +87,13 @@ accountRoutes.route("/accounts/login").post(async (req, res) => {
         const checkEmailAndPassword = await db_connect.collection("users").findOne({ email: myobj.email, password: myobj.password });
         if (!checkEmailAndPassword) {
             console.log("Error!!! Wrong!!");
-            errorMessage = {message: "Error: No user"};
-            res.json(errorMessage);
-            console.log(errorMessage);
+            message = {message: "Error: No user"};
+            res.json(message);
         } else {
-            // Insert new user
+            // Login user
             console.log("New: " + myobj.email + ", " + typeof(myobj.email));
-            errorMessage = {message: "Success"};
-            res.json(errorMessage);
-            console.log(errorMessage);
+            message = {message: "Success"};
+            res.json(checkEmailAndPassword);
         }
     } catch (err) {
         throw err;
@@ -119,8 +113,6 @@ accountRoutes.route("/update/:id").put(async (req, res) => {
             email: req.body.email,
             phone: req.body.phone,
             password: req.body.password,
-            savings: 0,
-            checking: 0,
             roles: "",
         },
         };
