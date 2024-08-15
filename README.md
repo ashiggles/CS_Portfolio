@@ -31,7 +31,7 @@
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_5_2.gif">
 
 <h4>🌱 6th Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Hangman_Game" target="_blank" rel="noreferrer">MERN Hangman Game</a></h4>
-<p align="left"> - The 6th assignment was a group assignment with @KristaSmith247 and @Acroft96. We developed a functioning Hangman Game using the MERN stack. This was the first project where we utilized the full MERN stack. This project was also fun and fun to play after it was developed. The most challenging part was figuring out a way to add 1000+ words to our Mongo database. I found a way to generate randomly selected words and POST them to our database.</p>
+<p align="left"> - The 6th assignment was a group assignment with <a href="https://github.com/KristaSmith1" target="_blank" rel="noreferrer">KristaSmith1</a>. We developed a functioning Hangman Game using the MERN stack. This was the first project where we utilized the full MERN stack. This project was also fun and fun to play after it was developed. The most challenging part was figuring out a way to add 1000+ words to our Mongo database. I found a way to generate randomly selected words and POST them to our database.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_6.jpg">
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_6_2.gif">
 
