@@ -1,17 +1,26 @@
 <h1 align="center">Hi I'm Adam 👋</h1>
-<h3 align="center">I'm a computer science learner! Please check out some of my projects below.</h3>
+<h3 align="center">I'm a computer science learner! Please check out some of my project assignments below.</h3>
 
-- 🌱 [React Connect Four Game](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/React_Connect_Four)
+🌎 1st Assignment: [My Express App](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/My_Express_App)
+<p align="left">The 1st assignment is the first initialization of an Express application.</p>
 
-- 📄 [Node And Express File Storage](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/Node_Express_File_Storage)
+📄 2nd Assignment: [Node And Express File Storage](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/Node_Express_File_Storage)
+<p align="left">The 2nd assignment included setting up Node with Express as well as demonstrating file storage.</p>
 
-- 📝 [MERN Bank Account](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Bank_Account)
+🌱 3rd Assignment: [React Connect Four Game](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/React_Connect_Four)
+<p align="left">The 3rd assignment was creating a Connect Four game with React.</p>
 
-- ⚡ [MERN And Session](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_And_Sessions)
+📝 4th Assignment: [RESTful API Bank Account](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/RESTful_API_Bank_Account)
+<p align="left">The 4th assignment was an introduction to RESTful API and creates a backend for registering and accepting new bank account information.</p>
 
-- 🌱 [MERN Hangman Game](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Hangman_Game)
+⚡ 5th Assignment: [MERN And Session](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_And_Sessions)
+<p align="left">The 5th assignment used the MERN stack and session data to create a functioning bank account application.</p>
 
-- 📝 [MERN Banking Website](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Banking_Website)
+🌱 6th Assignment: [MERN Hangman Game](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Hangman_Game)
+<p align="left">The 6th assignment was a group assignment with @KristaSmith247 and @Acroft96. We developed a functioning Hangman Game using the MERN stack.</p>
+
+📝 7th Assignment: [MERN Banking Website](https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Banking_Website)
+<p align="left">The 7th assignment was a group assignment with @KristaSmith247 and @Acroft96. We developed a functioning Banking website using the MERN stack.</p>
 
 <h3 align="left">Connect with me:</h3>
 🔭 [GitHub Profile](https://github.com/ashiggles)
