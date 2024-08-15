@@ -2,6 +2,8 @@
 <h3 align="center">I'm a computer science learner! Please check out some of my project assignments below.</h3>
 
 <br>
+<h3 align="center"><a href="https://github.com/ashiggles/Portfolio_Project" target="_blank" rel="noreferrer">Portfolio_Porject GitHub Repo</a></h3>
+<br>
 
 <h4>🌎 1st Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/My_Express_App" target="_blank" rel="noreferrer">My Express App</a></h4>
 <p align="left"> - The 1st assignment is the first initialization of an Express application. This project was just the beginning of the journey to learn the MERN stack. It involved going through the complete setup of Express in a development environment. This project wasn't too challenging.</p>
