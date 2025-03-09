@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'm Adam 👋</h1>
-<h3 align="center">I'm a computer science learner! Please check out some of my project assignments below.</h3>
+<h3 align="center">I'm a computer science student at Weber State University! Please check out some of my project assignments below.</h3>
 
 <br>
-<h3 align="center">Check out the full repo: <a href="https://github.com/ashiggles/Portfolio_Project" target="_blank" rel="noreferrer">Portfolio_Project</a></h3>
+<h3 align="center">Check out the full repo: <a href="https://github.com/ashiggles/CS_Portfolio" target="_blank" rel="noreferrer">CS_Portfolio</a></h3>
 <br>
 
 <h4>🌎 1st Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/My_Express_App" target="_blank" rel="noreferrer">My Express App</a></h4>
