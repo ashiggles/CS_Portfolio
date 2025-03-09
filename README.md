@@ -12,7 +12,7 @@
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_2_2.gif">
 
 <h4>🌱 <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/React_Connect_Four" target="_blank" rel="noreferrer">React Connect Four Game</a></h4>
-<p align="left"> - Let's play! This project consisted of creating a Connect Four game with React. This project was fun and fun to play after it was created. The most challenging part of this project was figuring out a way to drop tiles to the bottom of the grid. This is also the first project we learned React.</p>
+<p align="left"> - Let's play Connect Four! This project consisted of creating a Connect Four game with React. This project was fun and fun to play after it was created. The most challenging part of this project was figuring out a way to drop tiles to the bottom of the grid. This is also the first project we learned React.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_3.jpg">
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_3_2.gif">
 
@@ -21,18 +21,18 @@
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_4.jpg">
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_4_2.gif">
 
-<h4>⚡ 5th Assignment: <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_And_Sessions" target="_blank" rel="noreferrer">MERN And Session</a></h4>
-<p align="left"> - The 5th assignment used the MERN stack and session data to create a functioning bank account application. This project was an extension to the previous project. In this project we added a React frontend for users.</p>
+<h4>⚡ <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_And_Sessions" target="_blank" rel="noreferrer">MERN And Sessions</a></h4>
+<p align="left"> - This project used the MERN stack and session data to create a functioning bank account application. This project was an extension to the previous project. In this project we added a React frontend for users.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_5.jpg">
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_5_2.gif">
 
 <h4>🌱 <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Hangman_Game" target="_blank" rel="noreferrer">MERN Hangman Game</a></h4>
-<p align="left"> - This was a group assignment with <a href="https://github.com/KristaSmith1" target="_blank" rel="noreferrer">KristaSmith1</a>. We developed a functioning Hangman Game using the MERN stack. This was the first project where we utilized the full MERN stack. This project was also fun and fun to play after it was developed. The most challenging part was figuring out a way to add 1000+ words to our Mongo database. I found a way to generate randomly selected words and POST them to our database.</p>
+<p align="left"> - This was a group project with <a href="https://github.com/KristaSmith1" target="_blank" rel="noreferrer">KristaSmith1</a>. We developed a functioning Hangman Game using the MERN stack. This was the first project where we utilized the full MERN stack. This project was also fun and fun to play after it was developed. The most challenging part was figuring out a way to add 1000+ words to our Mongo database. I found a way to generate randomly selected words and POST them to our database.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_6.jpg">
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_6_2.gif">
 
 <h4>📝 <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/MERN_Banking_Website" target="_blank" rel="noreferrer">MERN Banking Website</a></h4>
-<p align="left"> - This was a group assignment with <a href="https://github.com/KristaSmith1" target="_blank" rel="noreferrer">KristaSmith1</a> and <a href="https://github.com/Acroft96" target="_blank" rel="noreferrer">Acroft96</a>. We developed a functioning Banking website using the MERN stack. This project was a two part project where the first part was developing the frontend. We broke up the project in three ways and worked on our individual parts, this seemed to work the best. The second part was developing the backend and routing for all our banking data. We also broke this part up in three ways. The most challenging part was setting up the backend routing for all the user information we were displaying and editing. Overall I think this project went really well and turned out well.</p>
+<p align="left"> - This was a group project with <a href="https://github.com/KristaSmith1" target="_blank" rel="noreferrer">KristaSmith1</a> and <a href="https://github.com/Acroft96" target="_blank" rel="noreferrer">Acroft96</a>. We developed a functioning Banking website using the MERN stack. This project was a two part project where the first part was developing the frontend. We broke up the project in three ways and worked on our individual parts, this seemed to work the best. The second part was developing the backend and routing for all our banking data. We also broke this part up in three ways. The most challenging part was setting up the backend routing for all the user information we were displaying and editing. Overall I think this project went really well and turned out well.</p>
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_7.jpg">
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_7_2.gif">
 
