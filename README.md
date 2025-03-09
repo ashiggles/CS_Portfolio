@@ -1,4 +1,5 @@
 <h1 align="center">Hi I'm Adam Shigley 👋</h1>
+<img align="center" style="width:50px;height:50px;border-radius:5%;" src="Images/profile_picture.jpg"/> 
 <h3 align="center">I'm a computer science student at Weber State University! Please check out some of my projects below.</h3>
 
 <br>
@@ -95,8 +96,3 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiggles&show_icons=true&locale=en&layout=compact" alt="ashiggles" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiggles&show_icons=true&locale=en" alt="ashiggles" /></p>
-
