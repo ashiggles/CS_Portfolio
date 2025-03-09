@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Adam Shigley 👋</h1>
-<img style="width:30%;box-shadow:0px 0px 7px black;" src="Images/profile_picture.jpg"/> 
+<img style="width:30%;box-shadow:0px 0px 7px black;display:block;margin-right:auto;margin-left:auto;" src="Images/profile_picture.jpg"/> 
 <h3 align="center">I'm a computer science student at Weber State University! Please check out some of my projects below.</h3>
 
 <br>
