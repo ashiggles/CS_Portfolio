@@ -36,6 +36,11 @@
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_7.jpg">
 <img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/Assignment_7_2.gif">
 
+<h4>🖥️ <a href="https://github.com/ashiggles/Portfolio_Project/tree/master/Projects/C#_Simple_Store_System" target="_blank" rel="noreferrer">C# Simple Store System</a></h4>
+<p align="left"> - This project consisted of creating a Simple Store System that has inventory tracking, company tracking, and a search functionality. This project utilized the C# programming language. It comprises of three different forms that are accessed from one window. This was a CRUD heavy project such that every form has the ability to create, read, update, and delete items from the system.</p>
+<img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/csharp1.jpg">
+<img style="width:50%;box-shadow:0px 0px 7px black;" src="Images/csharp1_gif.gif">
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
