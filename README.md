@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Adam 👋</h1>
-<h3 align="center">I'm a computer science student at Weber State University! Please check out some of my project assignments below.</h3>
+<h1 align="center">Hi I'm Adam Shigley 👋</h1>
+<h3 align="center">I'm a computer science student at Weber State University! Please check out some of my projects below.</h3>
 
 <br>
 <h3 align="center">Check out the full repo: <a href="https://github.com/ashiggles/CS_Portfolio" target="_blank" rel="noreferrer">CS_Portfolio</a></h3>
@@ -43,7 +43,8 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<h4>🔭 <a href="https://github.com/ashiggles" target="_blank" rel="noreferrer">GitHub Profile</a></h4>
+<h4>:octocat: <a href="https://github.com/ashiggles" target="_blank" rel="noreferrer">GitHub Profile</a></h4>
+<h4>🔭 <a href="https://www.linkedin.com/in/adam-shigley-b84b9a94/" target="_blank" rel="noreferrer">LinkedIn Profile</a></h4>
 
 <br>
 
